@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/IsFullExpandedOrCollapsed/Form1.cs) (VB: [Form1.vb](./VB/IsFullExpandedOrCollapsed/Form1.vb))
+* [Program.cs](./CS/IsFullExpandedOrCollapsed/Program.cs) (VB: [Program.vb](./VB/IsFullExpandedOrCollapsed/Program.vb))
+<!-- default file list end -->
 # How to determine whether all rows are expanded or collapsed
 
 
